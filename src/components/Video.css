@@ -1,0 +1,54 @@
+.video{
+    display: flex;
+    padding: 3% 0%;
+}
+.ytube{
+    margin: 5%;
+}
+.chat{
+    color: rgb(24, 107, 43);
+}
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Petrona:ital,wght@1,300&display=swap");
+.cat-card{
+    font-family: Lora;
+    display: flex;
+    margin: 5% 3% 5% 2%;
+    border-radius: 5px;
+    color: rgb(20, 1, 1);
+    background-color: rgba(246, 246, 247, 0.916);
+    box-shadow: 4px 4px 4px gray ;
+    padding: 4rem;
+}
+.whatsapp-contact{
+    padding: 10px 20px;
+    color: rgb(46, 162, 46);
+    font-size: 18px;
+    margin-top: 15%;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 2px 2px 4px gray;
+    cursor: pointer;
+}
+.whatsapp-contact:hover{
+    transform: scale(1.05);
+    box-shadow: 4px 4px 4px gray;
+}
+
+.cat-card li{
+    text-align: left;
+    list-style: none;
+}
+@media screen and (max-width:756px){
+    .ytube{
+        height: 200px;
+        width: 350px;
+    }
+    .video{
+        display: flex;
+        flex-direction: column;
+    }
+    .cat-card{
+        padding: 20px;
+        margin: 0px 0px 25px 0;
+    }
+}

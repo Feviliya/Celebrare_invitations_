@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+body{
+    background: linear-gradient(188deg, rgba(69, 35, 171, 0.423) 0%, rgba(28, 92, 92, 0.809) 49%, rgba(31, 10, 68, 0.61) 82%);
+}
+.hero-card {
+    width: 90%;
+    height: 80vh;
+    background-color: rgb(249, 249, 251);
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    border-radius: 30px;
+    display: flex;
+    margin:8% 0% 6%  5%;
+    text-align: right;
+    
+}
+.card{
+    border-radius: 10px 0 0 10px;
+}
+.view-all-cards {
+    margin-top: 1rem;
+    padding: 10px 20px;
+    background-color: rgba(69, 35, 171, 0.87);
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    
+}
+.view-all-cards:hover{
+    color:rgba(69, 35, 171, 0.87);
+    background-color: white;
+    border: 1px solid rgba(69, 35, 171, 0.87);
+}
+.rightside-info{
+    margin:12% 0 0 18%;
+    text-align: end;
+}
+p{
+    text-align: end;
+}
+.card-head{
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    font-size: 50px;
+}
+.cardz2{
+    display: none;
+}
+@media screen and (max-width: 844px) {
+    .cardz{
+        display: none;
+    }
+    .cardz2{
+        display: block;
+        border: radius top 20px; ;
+    }
+    .card{
+        margin-top: 30%;
+        margin-bottom: 80px;
+    
+    }
+    .hero-card{
+        height: 60vh;
+        width: 90%;
+        display: block;
+    }
+    .rightside-info{
+        margin:2% 0 0 4%;
+        text-align: center;
+    }
+    .rightside-info p{
+        text-align: center;
+    }
+}

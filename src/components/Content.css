@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+  @import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital@1&display=swap');
+.odd{
+    padding: 15px;
+    border: wheat solid 1px ;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.744) ;
+    margin-left: 51%;
+    margin-right: 3%;
+    font-family: 'Ysabeau', sans-serif;
+    
+}
+.even{
+    padding: 15px;
+    margin-right: 52%;
+    margin-left: 1%;
+    background-color: whitesmoke;
+    border: wheat solid 1px ;
+    box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.563) ;
+    font-family: 'Ysabeau', sans-serif;
+    margin-top: 1%;
+}
+.content{
+    background: rgba(206, 221, 246, 0.806);
+    padding: 20px;
+    font-size: 15px;
+}
+@media screen and (max-width:844px) {
+    .even{
+        width: 80%;
+        margin:2% 0 0 -2%;
+        font-size: 14px;
+        padding: 5px;
+    }
+    .odd{
+        width: 80%;
+        margin:5% 0 5% 13%;
+        font-size: 14px;
+    }
+}

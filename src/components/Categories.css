@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    border: none;
+    padding: 0%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital@1&display=swap');
+.head-category{
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.card-box a{
+    color: rgb(26, 15, 81);
+}
+.card-box:hover{
+    transform: scale(1.05);
+    border-bottom: 1px solid black;
+}
+ 
+.category{
+
+    text-decoration: none;
+    color: rgb(39, 14, 119);
+    background-color: rgba(244, 253, 253, 0.893);
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.categories-container{
+    padding: 3% 5%;
+    font-family: 'Ysabeau', sans-serif;
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    text-align: center;
+    line-height: 2rem;
+}
+.invites{
+    margin-top: 2%;
+    margin-left: -1%;
+    border-bottom: none;
+    padding: 5px;
+    
+}
+.invite-card{
+    z-index: 2;
+}
+@media screen and (max-width:844px) {
+    .category{
+        padding-top: 10%;
+    }
+}
