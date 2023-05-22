@@ -5,8 +5,8 @@ function Card() {
     <div className='card'>
     <div className='outer'>
     <div class="hero-card">
-      <img className='cardz' src='https://i.pinimg.com/originals/a4/f2/30/a4f2302e1b26be6445f3becaa9d30e42.jpg' width={400}></img>
-      <img className='cardz2' src='https://images.pexels.com/photos/15313106/pexels-photo-15313106.jpeg?cs=srgb&dl=pexels-jelabill-lawas-15313106.jpg&fm=jpg' width={352}></img>
+      <img className='cardz' alt='ntg' src='https://i.pinimg.com/originals/a4/f2/30/a4f2302e1b26be6445f3becaa9d30e42.jpg' width={400}></img>
+      <img className='cardz2' alt='ntg' src='https://images.pexels.com/photos/15313106/pexels-photo-15313106.jpeg?cs=srgb&dl=pexels-jelabill-lawas-15313106.jpg&fm=jpg' width={352}></img>
       <div class="rightside-info">
         <h1 className='card-head'>Wedding Invitation Card</h1>
         <p>
