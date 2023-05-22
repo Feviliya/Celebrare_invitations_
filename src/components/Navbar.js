@@ -35,17 +35,17 @@ render(){
               <i class="fa fa-caret-down" ></i>
             
             <div class="dropdown-content">
-              <a href="#">Royal invitations</a>
-              <a href="#">General invitations</a>
-              <a href="#">Hindu invitations</a>
-              <a href="#">Muslim invitations</a>
-              <a href="#">Sikh invitations</a>
-              <a href="#">Sout Indian invitations</a>
-              <a href="#">Buddha invitations</a>
-              <a href="#">Marathi invitations</a>
-              <a href="#">Bengali invitations</a>
-              <a href="#">Christian invitations</a>
-              <a href="#">Engagement invitations</a>
+              <a href="https://celebrare.in/assets/img/logo.webp">Royal invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">General invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Hindu invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Muslim invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Sikh invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Sout Indian invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Buddha invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Marathi invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Bengali invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Christian invitations</a>
+              <a href=" https://celebrare.in/assets/img/logo.webp">Engagement invitations</a>
             </div>
           </div> 
         </li>

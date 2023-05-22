@@ -29,13 +29,13 @@ function Footer() {
           <div class="footer-main-div stay-connected">
             <h2 class="Stay-Connected">Stay Connected</h2>
             <div class="social-links">
-              <a href="https://in.pinterest.com/celebrare_in/" target="_blank" aria-label="pinterest page">
+              <a href="https://in.pinterest.com/celebrare_in/">
                 <i class="fab fa-pinterest" ></i></a>
   
-              <a href="https://www.facebook.com/celebrare.in" target="_blank" aria-label="pinterest page">
+              <a href="https://www.facebook.com/celebrare.in">
                 <i class="fab fa-facebook-square" aria-hidden="true"></i></a>
             </div> 
-            <a class="googlePlayicon-div" href="https://play.google.com/store/apps/details?id=com.enjoy.celebrare" target="_blank" aria-label="playstore page">
+            <a class="googlePlayicon-div" href="https://play.google.com/store/apps/details?id=com.enjoy.celebrare">
               <i class="fab fa-google-play me-2" aria-hidden="true"></i>
               <div class="google-play-text Get-it-on">Get it on Google Play</div>
             </a>
